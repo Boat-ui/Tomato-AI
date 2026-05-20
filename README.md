@@ -1,4 +1,4 @@
-# 🍅 Tomato AI — Tomato Leaf Disease Detection System
+# 🍅 Tomato AI Leaf Disease Detection System
 
 An intelligent Flutter-based mobile application that detects tomato plant diseases using Artificial Intelligence and TensorFlow Lite.
 
