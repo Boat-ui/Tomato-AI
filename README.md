@@ -231,6 +231,36 @@ with your actual API key.
 - Treatment Videos
 - AI Chatbot
 
+## 📸 App Screenshots
+
+## 🏠 Home Page
+
+![Home Page](Screenshots/home_page.png)
+
+## 🍅 Disease Detection
+
+![Result 1](Screenshots/results1.png)
+
+![Result 2](Screenshots/results2.png)
+
+## 🤖 Chatbot
+
+![Chatbot](Screenshots/chatbot.png)
+
+![Chatbot Results](Screenshots/chatbot_results.png)
+
+## 🌦️ Weather System
+
+![Weather](Screenshots/weather.png)
+
+## 📜 Scan History Preview
+
+![History](Screenshots/scan_history.png)
+
+## 🎥 Treatment Videos Preview
+
+![Videos](Screenshots/videos_page.png)
+
 ---
 
 ## 🎯 Future Improvements
