@@ -28,4 +28,5 @@ Thumbs.db
 mobile_app/windows/
 mobile_app/linux/
 mobile_app/macos/
-mobile_app/web/
+mobile_app/web/build/
+mobile_app/build/
